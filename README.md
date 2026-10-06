@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer (MERN) | Ex-SEO | Performance Specialist
 
-I’m transitioning from 7+ years in Technical SEO & Digital Marketing into Full Stack Development.  
+I’m transitioning from 7+ years in Technical SEO & Digital Marketing into Full Stack Development and having more than 2 years of hands-on software develoment experience.  
 I specialize in building fast, scalable web apps with strong UI/UX and performance optimization.
 
 ---
